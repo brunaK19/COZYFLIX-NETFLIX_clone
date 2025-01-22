@@ -1,0 +1,12 @@
+@media screen and (min-width: 700px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 5px
+    }
+
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+}
